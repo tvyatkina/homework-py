@@ -22,7 +22,7 @@ for i in range(len(list)):
     c = round((a-b), 2)
     if c != 0:
         listN.append(c)
-print(listN)
+#print(listN)
 
 for i in range(len(listN)):
     d = min(listN)
