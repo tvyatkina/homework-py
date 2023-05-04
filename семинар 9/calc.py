@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot("55592******:******7yp9P2wP4V4UnWmwCVxOb0Tdul8M") 
+bot = telebot.TeleBot("5559260270:AAFN4Ek7yp9P2wP4V4UnWmwCVxOb0Tdul8M") 
 
 value = ""
 old_value = ""
